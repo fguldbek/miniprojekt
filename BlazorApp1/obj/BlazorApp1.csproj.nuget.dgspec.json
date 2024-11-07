@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/guldbaek/RiderProjects/miniprojekt/BlazorApp1/BlazorApp1.csproj": {}
+    "/Users/mathiaschristiansen/RiderProjects/miniprojekt2/BlazorApp1/BlazorApp1.csproj": {}
   },
   "projects": {
-    "/Users/guldbaek/RiderProjects/miniprojekt/BlazorApp1/BlazorApp1.csproj": {
+    "/Users/mathiaschristiansen/RiderProjects/miniprojekt2/BlazorApp1/BlazorApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/guldbaek/RiderProjects/miniprojekt/BlazorApp1/BlazorApp1.csproj",
+        "projectUniqueName": "/Users/mathiaschristiansen/RiderProjects/miniprojekt2/BlazorApp1/BlazorApp1.csproj",
         "projectName": "BlazorApp1",
-        "projectPath": "/Users/guldbaek/RiderProjects/miniprojekt/BlazorApp1/BlazorApp1.csproj",
-        "packagesPath": "/Users/guldbaek/.nuget/packages/",
-        "outputPath": "/Users/guldbaek/RiderProjects/miniprojekt/BlazorApp1/obj/",
+        "projectPath": "/Users/mathiaschristiansen/RiderProjects/miniprojekt2/BlazorApp1/BlazorApp1.csproj",
+        "packagesPath": "/Users/mathiaschristiansen/.nuget/packages/",
+        "outputPath": "/Users/mathiaschristiansen/RiderProjects/miniprojekt2/BlazorApp1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/guldbaek/.nuget/NuGet/NuGet.Config"
+          "/Users/mathiaschristiansen/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -55,13 +55,13 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.7, )",
+              "version": "[8.0.8, )",
               "autoReferenced": true
             },
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.7, )",
+              "version": "[8.0.8, )",
               "autoReferenced": true
             }
           },
@@ -79,7 +79,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[8.0.7, 8.0.7]"
+              "version": "[8.0.8, 8.0.8]"
             }
           ],
           "frameworkReferences": {
@@ -87,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/guldbaek/.dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
