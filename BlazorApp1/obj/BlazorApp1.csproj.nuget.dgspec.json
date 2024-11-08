@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mathiaschristiansen/RiderProjects/miniprojekt2/BlazorApp1/BlazorApp1.csproj": {}
+    "/Users/guldbaek/RiderProjects/miniprojekt/BlazorApp1/BlazorApp1.csproj": {}
   },
   "projects": {
-    "/Users/mathiaschristiansen/RiderProjects/miniprojekt2/BlazorApp1/BlazorApp1.csproj": {
+    "/Users/guldbaek/RiderProjects/miniprojekt/BlazorApp1/BlazorApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mathiaschristiansen/RiderProjects/miniprojekt2/BlazorApp1/BlazorApp1.csproj",
+        "projectUniqueName": "/Users/guldbaek/RiderProjects/miniprojekt/BlazorApp1/BlazorApp1.csproj",
         "projectName": "BlazorApp1",
-        "projectPath": "/Users/mathiaschristiansen/RiderProjects/miniprojekt2/BlazorApp1/BlazorApp1.csproj",
-        "packagesPath": "/Users/mathiaschristiansen/.nuget/packages/",
-        "outputPath": "/Users/mathiaschristiansen/RiderProjects/miniprojekt2/BlazorApp1/obj/",
+        "projectPath": "/Users/guldbaek/RiderProjects/miniprojekt/BlazorApp1/BlazorApp1.csproj",
+        "packagesPath": "/Users/guldbaek/.nuget/packages/",
+        "outputPath": "/Users/guldbaek/RiderProjects/miniprojekt/BlazorApp1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mathiaschristiansen/.nuget/NuGet/NuGet.Config"
+          "/Users/guldbaek/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -55,14 +55,26 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.8, )",
+              "version": "[8.0.7, )",
               "autoReferenced": true
             },
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.8, )",
+              "version": "[8.0.7, )",
               "autoReferenced": true
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "MongoDB.Driver.Core": {
+              "target": "Package",
+              "version": "[2.30.0, )"
             }
           },
           "imports": [
@@ -79,7 +91,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[8.0.8, 8.0.8]"
+              "version": "[8.0.7, 8.0.7]"
             }
           ],
           "frameworkReferences": {
@@ -87,7 +99,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/guldbaek/.dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
