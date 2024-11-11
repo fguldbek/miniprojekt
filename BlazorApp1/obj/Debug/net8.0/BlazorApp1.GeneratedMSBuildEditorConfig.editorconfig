@@ -26,16 +26,28 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/guldbaek/RiderProjects/miniprojekt/BlazorApp1/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+[/Users/guldbaek/RiderProjects/miniprojekt/BlazorApp1/Pages/CreatePost.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3JlYXRlUG9zdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/guldbaek/RiderProjects/miniprojekt/BlazorApp1/Pages/CreateUser.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3JlYXRlVXNlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/guldbaek/RiderProjects/miniprojekt/BlazorApp1/Pages/EditPost.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRWRpdFBvc3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/guldbaek/RiderProjects/miniprojekt/BlazorApp1/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/guldbaek/RiderProjects/miniprojekt/BlazorApp1/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvV2VhdGhlci5yYXpvcg==
+[/Users/guldbaek/RiderProjects/miniprojekt/BlazorApp1/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/guldbaek/RiderProjects/miniprojekt/BlazorApp1/Pages/MyPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTXlQYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/guldbaek/RiderProjects/miniprojekt/BlazorApp1/_Imports.razor]

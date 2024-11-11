@@ -7,7 +7,7 @@ using System.ComponentModel.DataAnnotations;
 namespace BlazorApp1.Model;
 
 
-public class Advertisment
+public class Post
 {
     public class Product
     {

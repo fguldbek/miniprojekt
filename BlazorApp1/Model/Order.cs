@@ -13,5 +13,5 @@ public class Order
     
     public DateTime  PurchaseDate { get; set; }
     
-    public List<string>? Advertisement { get; set;}
+    public List<string>? Post { get; set;}
 }
